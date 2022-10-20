@@ -3,4 +3,4 @@ The Zeus User Operations Notary (ZUON) Programming Language is a python-like int
 programming language designed to run on an embedded system without any hardware
 floating-point support.
 
-src/kifp.c is Api for the Zuon programming language to give Floating points functionality to the program.
+src/kifp.c is a Api for the Zuon programming language to give Floating points functionality to the program.
