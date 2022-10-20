@@ -1,0 +1,23 @@
+# Sample Script
+first = 0.05
+second = -0.05
+third =  0.25
+forth = -0.25
+fith = 1.0
+six = -1.0
+seveth = 4.5
+eigth = -4.5
+ninth = 10.0
+tenth = 10.0
+
+print(first+second)
+print(first+first)
+print(thirdthird)
+
+
+
+
+print(first+second)
+test = 1.5
+display(test)
+quit
